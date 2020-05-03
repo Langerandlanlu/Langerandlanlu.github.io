@@ -4,6 +4,7 @@
 0,HeartMode,0,,,,,,,
 0,Music,None,,,,,,,
 0,SansText,Ready?,,,,,,,
+0,Music,None,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
@@ -40,6 +41,14 @@
 1,SansBody,HandLeft,,,,,,,
 0.1,BlackScreen,1,,,,,,,
 0.1,BlackScreen,0,,,,,,,
+,,,,,,,,,
+0,Sound,ding,,,,,,,
+0,HeartMode,0,,,,,,,
+0.02,GasterBlaster,2,0,380,100,380,0,0.2,0.5
+0,GasterBlaster,2,0,240,100,240,0,0.2,0.5
+,,,,,,,,,
+1,GasterBlaster,2,260,100,260,200,90,0.2,0.5
+0,GasterBlaster,2,400,100,400,200,90,0.2,0.5
 0.2,SansText,OK,,,,,,,
 0.2,SansText,This is only a test,,,,,,,
 0.5,EndAttack,,,,,,,,
